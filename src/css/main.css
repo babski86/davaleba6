@@ -73,3 +73,141 @@ h2 {
   max-width: 463px;
   height: 604px;
 }
+.title {
+  display: inline-block;
+  background-color: #0a22f4;
+  height: 308px;
+  width: 100%;
+  margin-top: 394px;
+}
+.title h1 {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 70px;
+  margin-left: 80px;
+  display: inline-block;
+}
+.slider-dots {
+  display: inline-block;
+  margin-left: 73%;
+}
+.dot1 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  opacity: 100%;
+}
+.dot2 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  opacity: 30%;
+}
+.dot3 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  opacity: 30%;
+}
+.project1,
+.project2,
+.project3 {
+  display: inline-block;
+  position: relative;
+}
+.project1 p,
+.project2 p,
+.project3 p {
+  display: inline-block;
+  position: absolute;
+}
+.project1 img {
+  display: inline-block;
+  width: 420px;
+  height: 380px;
+  object-fit: cover;
+  border-radius: 15px;
+  margin-left: 55px;
+  position: relative;
+}
+.project1 p {
+  display: inline-block;
+  color: #171717;
+  font-size: 16px;
+  width: 83%;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  left: 15%;
+  bottom: 5%;
+  opacity: 40%;
+}
+.project2 img {
+  display: inline-block;
+  width: 470px;
+  height: 425px;
+  object-fit: cover;
+  border-radius: 15px;
+  position: relative;
+}
+.project2 p {
+  display: inline-block;
+  color: #171717;
+  font-size: 16px;
+  width: 83%;
+  padding: 28px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  left: 9%;
+  bottom: 15%;
+  opacity: 40%;
+  font-weight: bold;
+}
+.project3 img {
+  display: inline-block;
+  width: 420px;
+  height: 380px;
+  object-fit: cover;
+  border-radius: 15px;
+  position: relative;
+}
+.project3 p {
+  display: inline-block;
+  color: #171717;
+  font-size: 16px;
+  width: 83%;
+  padding: 22px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  left: 8%;
+  bottom: 6%;
+  opacity: 40%;
+}
+.pj {
+  margin-top: -190px;
+}
+.projects-bottom {
+  color: #171717;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-right: 50px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.last-h {
+  display: inline-block;
+  margin-left: 66%;
+  border-left: #171717 solid 2px;
+  padding-left: 10px;
+}
