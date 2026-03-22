@@ -1,0 +1,75 @@
+@font-face {
+  font-family: fonti-bold;
+  src: url(../fonts/HELVETICA-NEUE-LT-GEO-75-BOLD.ttf);
+}
+@font-face {
+  font-family: fonti-regular;
+  src: url(../fonts/HELVETICANEUELTGEO-45LIGHTS.ttf);
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html {
+  max-width: 1920px;
+  margin: auto;
+}
+img {
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.sec1 {
+  position: relative;
+  height: 1321px;
+}
+.chven-shesaxeb {
+  max-width: 463px;
+  height: 604px;
+  margin-left: 12.5%;
+  padding-top: 180px;
+}
+h2 {
+  margin-bottom: 60px;
+  font-family: fonti-bold;
+}
+.chven-shesaxeb > p {
+  display: inline-block;
+  font-family: fonti-regular;
+}
+.chven-shesaxeb p:first-of-type {
+  margin-bottom: 22px;
+}
+.chven-shesaxeb-img {
+  width: 707px;
+  height: auto;
+  position: absolute;
+  display: block;
+  right: 19.4%;
+  bottom: 16%;
+  border-bottom: 10px solid #0a22f4;
+  border-right: 10px solid #0a22f4;
+  border-radius: 30px;
+}
+.servisebi-img {
+  width: 707px;
+  height: auto;
+  position: absolute;
+  display: block;
+  left: 13%;
+  bottom: 26%;
+  border-bottom: 10px solid #0a22f4;
+  border-left: 10px solid #0a22f4;
+  border-radius: 30px;
+}
+.servisebi {
+  margin-left: auto;
+  margin-right: 20%;
+  max-width: 463px;
+  height: 604px;
+}
