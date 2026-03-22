@@ -87,6 +87,7 @@ h2 {
   margin-top: 70px;
   margin-left: 80px;
   display: inline-block;
+  font-family: fonti-bold;
 }
 .slider-dots {
   display: inline-block;
@@ -149,6 +150,7 @@ h2 {
   left: 15%;
   bottom: 5%;
   opacity: 40%;
+  font-family: fonti-regular;
 }
 .project2 img {
   display: inline-block;
@@ -170,7 +172,7 @@ h2 {
   left: 9%;
   bottom: 15%;
   opacity: 40%;
-  font-weight: bold;
+  font-family: fonti-bold;
 }
 .project3 img {
   display: inline-block;
@@ -192,6 +194,7 @@ h2 {
   left: 8%;
   bottom: 6%;
   opacity: 40%;
+  font-family: fonti-regular;
 }
 .pj {
   margin-top: -190px;
@@ -210,4 +213,5 @@ h2 {
   margin-left: 66%;
   border-left: #171717 solid 2px;
   padding-left: 10px;
+  font-family: fonti-bold;
 }
