@@ -137,7 +137,7 @@ h2 {
   border-radius: 15px;
   margin-left: 55px;
   position: relative;
-  left: 38%;
+  left: 36%;
 }
 .project1 p {
   display: inline-block;
@@ -160,7 +160,7 @@ h2 {
   object-fit: cover;
   border-radius: 15px;
   position: relative;
-  left: 44%;
+  left: 46%;
   margin-bottom: 8%;
 }
 .project2 p {
@@ -184,7 +184,7 @@ h2 {
   object-fit: cover;
   border-radius: 15px;
   position: relative;
-  left: 59%;
+  left: 61%;
 }
 .project3 p {
   display: inline-block;
