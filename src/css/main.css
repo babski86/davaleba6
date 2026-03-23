@@ -85,13 +85,13 @@ h2 {
   font-size: 32px;
   font-weight: bold;
   margin-top: 70px;
-  margin-left: 80px;
+  margin-left: 13%;
   display: inline-block;
   font-family: fonti-bold;
 }
 .slider-dots {
   display: inline-block;
-  margin-left: 73%;
+  margin-left: 59%;
 }
 .dot1 {
   display: inline-block;
@@ -137,6 +137,7 @@ h2 {
   border-radius: 15px;
   margin-left: 55px;
   position: relative;
+  left: 38%;
 }
 .project1 p {
   display: inline-block;
@@ -147,7 +148,7 @@ h2 {
   background-color: #ffffff;
   border-radius: 12px;
   position: absolute;
-  left: 15%;
+  left: 52%;
   bottom: 5%;
   opacity: 40%;
   font-family: fonti-regular;
@@ -159,18 +160,20 @@ h2 {
   object-fit: cover;
   border-radius: 15px;
   position: relative;
+  left: 44%;
+  margin-bottom: 8%;
 }
 .project2 p {
   display: inline-block;
   color: #171717;
-  font-size: 16px;
-  width: 83%;
+  font-size: 17px;
+  width: 90%;
   padding: 28px;
   background-color: #ffffff;
   border-radius: 12px;
   position: absolute;
-  left: 9%;
-  bottom: 15%;
+  left: 49%;
+  bottom: 7%;
   opacity: 40%;
   font-family: fonti-bold;
 }
@@ -181,6 +184,7 @@ h2 {
   object-fit: cover;
   border-radius: 15px;
   position: relative;
+  left: 59%;
 }
 .project3 p {
   display: inline-block;
@@ -191,7 +195,7 @@ h2 {
   background-color: #ffffff;
   border-radius: 12px;
   position: absolute;
-  left: 8%;
+  left: 70%;
   bottom: 6%;
   opacity: 40%;
   font-family: fonti-regular;
@@ -210,7 +214,7 @@ h2 {
 }
 .last-h {
   display: inline-block;
-  margin-left: 66%;
+  margin-left: 63%;
   border-left: #171717 solid 2px;
   padding-left: 10px;
   font-family: fonti-bold;
